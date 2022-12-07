@@ -1,2 +1,2 @@
-# YKpages.github.io
-GitHub Pages
+# YKpages by Yusuke Kato
+https://YKpages.github.io/

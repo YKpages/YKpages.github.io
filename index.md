@@ -1,2 +1,0 @@
-# YKpages
-Yusuke Kato
